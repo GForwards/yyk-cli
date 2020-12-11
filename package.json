@@ -1,6 +1,6 @@
 {
-  "name": "yangyankang-test-cli",
-  "version": "1.0.0",
+  "name": "yyk-cli",
+  "version": "1.0.1",
   "description": "自己的脚手架",
   "main": "index.js",
   "bin": {
